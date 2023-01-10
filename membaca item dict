@@ -1,0 +1,3 @@
+dict = {'id': 1,'name': 'ahmad'},{'id': 2,'name': 'ahmad'}
+for i in range(0, len(dict)):
+  print(dict[i]['name'])
